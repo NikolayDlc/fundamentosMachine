@@ -1,0 +1,4 @@
+Etapa,Filas,Columnas,Nulos totales,Observación
+Selección inicial,101766,7,0,Siete variables cuantitativas
+Conversión numérica,101766,7,0,Valores no convertibles registrados como NaN
+Imputación por mediana,101766,7,0,"Se imputaron los faltantes detectados, si existían"
